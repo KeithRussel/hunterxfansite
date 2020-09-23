@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hunterxfansite/static/css/main.ffe0e9d8.chunk.css",
+    "main.js": "/hunterxfansite/static/js/main.b5c8c90c.chunk.js",
+    "main.js.map": "/hunterxfansite/static/js/main.b5c8c90c.chunk.js.map",
+    "runtime-main.js": "/hunterxfansite/static/js/runtime-main.ed9ac8bb.js",
+    "runtime-main.js.map": "/hunterxfansite/static/js/runtime-main.ed9ac8bb.js.map",
+    "static/js/2.a2c839c3.chunk.js": "/hunterxfansite/static/js/2.a2c839c3.chunk.js",
+    "static/js/2.a2c839c3.chunk.js.map": "/hunterxfansite/static/js/2.a2c839c3.chunk.js.map",
+    "index.html": "/hunterxfansite/index.html",
+    "precache-manifest.3d259c28020becc0007c2f0ee507fba6.js": "/hunterxfansite/precache-manifest.3d259c28020becc0007c2f0ee507fba6.js",
+    "service-worker.js": "/hunterxfansite/service-worker.js",
+    "static/css/main.ffe0e9d8.chunk.css.map": "/hunterxfansite/static/css/main.ffe0e9d8.chunk.css.map",
+    "static/js/2.a2c839c3.chunk.js.LICENSE.txt": "/hunterxfansite/static/js/2.a2c839c3.chunk.js.LICENSE.txt",
+    "static/media/chibigon.png": "/hunterxfansite/static/media/chibigon.703051a2.png",
+    "static/media/App.scss": "/hunterxfansite/static/media/leorio.ebbbaba9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed9ac8bb.js",
+    "static/js/2.a2c839c3.chunk.js",
+    "static/css/main.ffe0e9d8.chunk.css",
+    "static/js/main.b5c8c90c.chunk.js"
+  ]
+}

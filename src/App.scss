@@ -1,0 +1,156 @@
+@import '~bootstrap/scss/bootstrap';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Roboto:ital,wght@0,400;0,700;1,300&display=swap');
+
+$font-montserat: 'Montserrat', sans-serif;
+$font-roboto: 'Roboto', sans-serif;
+
+// Colors
+$primary-color: #f9a06e;
+$primary-fade: #f9a06e9c;
+$secondary-color: #366e0a;
+
+$secondary-hover: #5fa22a;
+
+// Header
+.header {
+  background-color: $primary-color;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+
+  .container {
+    .navbar {
+      a {
+        font-family: $font-montserat;
+        color: #fff;
+        display: flex;
+
+        img {
+          height: auto;
+          margin-right: 5px;
+        }
+        span {
+          align-self: center;
+        }
+      }
+      .navbar-collapse {
+        .navbar-nav {
+          a {
+            font-family: $font-roboto;
+            font-weight: bold;
+            color: #fff;
+            &:hover {
+              color: $secondary-color;
+              text-decoration: underline;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+// Home || Body
+.customMargin {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  .mb-5 {
+    justify-content: center;
+  }
+  .charDetails {
+    h1 {
+      font-size: 3.5rem;
+    }
+    p {
+      font-family: $font-roboto;
+    }
+    button {
+      font-family: $font-roboto;
+      background-color: $secondary-color;
+      border-color: $secondary-color;
+
+      &:hover {
+        background-color: $secondary-hover;
+        border-color: $secondary-hover;
+      }
+    }
+  }
+  // Others page
+  .imgCenter {
+    margin-bottom: 15px;
+    align-self: center;
+    img {
+      box-shadow: 5px 10px 10px #afafaf;
+    }
+  }
+  .usefulContent {
+    a {
+      img {
+        height: auto;
+        width: 100%;
+      }
+    }
+  }
+}
+
+.roundedImg1 {
+  border-radius: 50%;
+  background: url(./images/gon.png);
+  background-size: cover;
+  background-position: right top;
+  background-color: $primary-fade;
+  width: 350px;
+  height: 350px;
+}
+
+.roundedImg2 {
+  border-radius: 50%;
+  background: url(./images/killua.png);
+  background-size: cover;
+  background-position: right top;
+  background-color: $primary-fade;
+  width: 350px;
+  height: 350px;
+}
+
+.roundedImg3 {
+  border-radius: 50%;
+  background: url(./images/kurapika.png);
+  background-size: cover;
+  background-position: right top;
+  background-color: $primary-fade;
+  width: 350px;
+  height: 350px;
+}
+
+.roundedImg4 {
+  border-radius: 50%;
+  background: url(./images/leorio.png);
+  background-size: cover;
+  background-position: right top;
+  background-color: $primary-fade;
+  width: 350px;
+  height: 350px;
+}
+
+.carousel-indicators,
+.carousel-control-prev,
+.carousel-control-next {
+  display: none;
+}
+
+// Footer
+.waves {
+  background: url(./images/wavebg.png);
+  background-size: cover;
+  background-position: right top;
+  //   background-color: $primary-fade;
+  max-width: 100%;
+  height: 150px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}

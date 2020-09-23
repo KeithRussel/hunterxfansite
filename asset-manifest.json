@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hunterxfansite/static/css/main.ffe0e9d8.chunk.css",
+    "main.css": "/hunterxfansite/static/css/main.e92d7c66.chunk.css",
     "main.js": "/hunterxfansite/static/js/main.3b761b5e.chunk.js",
     "main.js.map": "/hunterxfansite/static/js/main.3b761b5e.chunk.js.map",
     "runtime-main.js": "/hunterxfansite/static/js/runtime-main.ed9ac8bb.js",
@@ -8,9 +8,9 @@
     "static/js/2.b7c0c68a.chunk.js": "/hunterxfansite/static/js/2.b7c0c68a.chunk.js",
     "static/js/2.b7c0c68a.chunk.js.map": "/hunterxfansite/static/js/2.b7c0c68a.chunk.js.map",
     "index.html": "/hunterxfansite/index.html",
-    "precache-manifest.d940919bcce6b40414fb8e6331ce2f85.js": "/hunterxfansite/precache-manifest.d940919bcce6b40414fb8e6331ce2f85.js",
+    "precache-manifest.0f05f31b0b057f35787f6da5572e33c1.js": "/hunterxfansite/precache-manifest.0f05f31b0b057f35787f6da5572e33c1.js",
     "service-worker.js": "/hunterxfansite/service-worker.js",
-    "static/css/main.ffe0e9d8.chunk.css.map": "/hunterxfansite/static/css/main.ffe0e9d8.chunk.css.map",
+    "static/css/main.e92d7c66.chunk.css.map": "/hunterxfansite/static/css/main.e92d7c66.chunk.css.map",
     "static/js/2.b7c0c68a.chunk.js.LICENSE.txt": "/hunterxfansite/static/js/2.b7c0c68a.chunk.js.LICENSE.txt",
     "static/media/chibigon.png": "/hunterxfansite/static/media/chibigon.703051a2.png",
     "static/media/App.scss": "/hunterxfansite/static/media/leorio.ebbbaba9.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.ed9ac8bb.js",
     "static/js/2.b7c0c68a.chunk.js",
-    "static/css/main.ffe0e9d8.chunk.css",
+    "static/css/main.e92d7c66.chunk.css",
     "static/js/main.3b761b5e.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ced0a6c9f5d6adaa34dc6140d923997f",
+    "revision": "6370761f5bec026c4ea74dff9295ff8c",
     "url": "/hunterxfansite/index.html"
   },
   {
-    "revision": "c590f2135e7fc543a3c4",
-    "url": "/hunterxfansite/static/css/main.ffe0e9d8.chunk.css"
+    "revision": "cf4a08f9761faf5dff96",
+    "url": "/hunterxfansite/static/css/main.e92d7c66.chunk.css"
   },
   {
     "revision": "3696054cac4ab98116cd",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hunterxfansite/static/js/2.b7c0c68a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c590f2135e7fc543a3c4",
+    "revision": "cf4a08f9761faf5dff96",
     "url": "/hunterxfansite/static/js/main.3b761b5e.chunk.js"
   },
   {
